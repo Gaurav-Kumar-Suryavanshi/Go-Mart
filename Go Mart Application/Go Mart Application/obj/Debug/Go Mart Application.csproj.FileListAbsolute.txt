@@ -1,0 +1,13 @@
+D:\My Mart Project\Go Mart Application\Go Mart Application\bin\Debug\Go Mart Application.exe.config
+D:\My Mart Project\Go Mart Application\Go Mart Application\bin\Debug\Go Mart Application.exe
+D:\My Mart Project\Go Mart Application\Go Mart Application\bin\Debug\Go Mart Application.pdb
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go Mart Application.csproj.AssemblyReference.cache
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go_Mart_Application.Form1.resources
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go_Mart_Application.Properties.Resources.resources
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go Mart Application.csproj.GenerateResource.cache
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go Mart Application.csproj.CoreCompileInputs.cache
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go Mart Application.exe
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go Mart Application.pdb
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go_Mart_Application.AboutBox1.resources
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go_Mart_Application.frmMain.resources
+D:\My Mart Project\Go Mart Application\Go Mart Application\obj\Debug\Go_Mart_Application.FrmCategory.resources
